@@ -19,7 +19,7 @@ network-analysis-project/
 
 - **Source**: BPI Challenge 2012 (TU/e Process Mining group)
 - **Content**: Event logs from a Dutch financial institution
-- **Link**: [https://www.win.tue.nl/bpi/doku.php?id=2012:challenge](https://www.win.tue.nl/bpi/doku.php?id=2012:challenge)
+- **Link**: [[https://data.4tu.nl/articles/dataset/BPI_Challenge_2012/12689204](https://data.4tu.nl/articles/dataset/BPI_Challenge_2012/12689204)]
 
 ---
 
